@@ -1,0 +1,7 @@
+The program presented below does not compile.
+class Simple {
+public static void main(String args) {
+System.out.print(Our second program)}
+
+Copy the above code to a file named Simple.java.
+Fix the errors, compile, and run the program.
