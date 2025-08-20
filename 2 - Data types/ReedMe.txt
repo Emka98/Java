@@ -1,0 +1,33 @@
+PL
+
+Napisz program, który wyświetli o tobie kilka informacji w postaci takiej jak przedstawiono poniżej.
+
+    Cześć Jan, słyszałem, że masz 25 lat i uczysz się programowania. Czy to prawda?
+    true
+    Czy Twoje inicjały to J K?
+    Tak, true
+
+W zadaniu wykorzystaj nie tylko napisy zapisane w cudzysłowie, ale również podane typy danych:
+
+    liczby (int),
+    znaki (char),
+    typ logiczny (boolean).
+
+ENG
+
+Write a program that displays some information about you, as shown below.
+
+Hi Jan, I heard you're 25 years old and learning programming. Is that true?
+
+True
+Are your initials JK?
+
+Yes, true
+
+In the problem, use not only strings enclosed in quotation marks, but also the following data types:
+
+numbers (int),
+
+characters (char),
+
+logical type (boolean).
