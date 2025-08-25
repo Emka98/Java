@@ -1,0 +1,10 @@
+Write a program in which you declare two integer variables named x and y. Assign any numbers to them, and then use logical and mathematical operators to display the results of the following logical statements:
+
+Is x greater than y?
+Is x multiplied by 2 greater than y?
+Is y less than x + 3 and also greater than x minus 2?
+Is the product of x and y even? (Use the modulo operation to check.)
+
+Assign the result of each logical statement to a Boolean variable named result before printing.
+
+You can use random numbers in this problem. The hint provides a method for doing this, but I encourage you to use Google first. Proficiently using an internet search engine is also an important skill for every programmer.
