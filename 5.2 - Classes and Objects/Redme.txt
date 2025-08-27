@@ -1,0 +1,1 @@
+Take a sheet of paper or open any graphic program and draw a diagram that will represent a simplified model of computer memory in those places in the program marked with comments. The diagram should include the references and objects created in the program. Also, answer the question: what will be displayed on the screen after running the program?
