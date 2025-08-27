@@ -1,0 +1,1 @@
+Write a program in which you will create two classes:Employee - a class that will represent an employee of any company. Basic information about the employee needed by the employer includes first name, last name, year of birth, and work experience.Company - a class in which you will create 3 objects representing employees and then display information about them on the screen.
