@@ -1,0 +1,1 @@
+The objective is to calculate the profit from a bank deposit based on the given number of days, annual interest rate, and the capital gains tax rate. The calculations include determining gross interest, applying the tax, and computing the final net profit.
