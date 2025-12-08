@@ -1,0 +1,1 @@
+Write a program in which you create an array of 20 arbitrary integers, and then sort the array in ascending and descending order, displaying the sorting result on the screen each time. Use the Comparator interface and anonymous inner classes.
