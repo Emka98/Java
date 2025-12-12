@@ -1,0 +1,3 @@
+Write a program that allows summing any number of values entered by the user. The application should stop reading numbers when the user enters the command 'exit'.
+After reading the numbers, display them on the screen and show the result of their summation in the form 'a + b + c + ... + N = result'. For reading the data, write an appropriate recursive method."**
+Chcesz, żebym przygotował też tłumaczenie w bardziej „programistycznym” stylu (tak jak w dokumentacji technicznej), czy wystarczy dosłowne?
