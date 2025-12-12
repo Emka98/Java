@@ -1,18 +1,4 @@
-## Getting Started
+In the attached file namespl.txt there is a list of names, each on a new line. The problem is that the names are repeated, and in our program we will only need unique names. Additionally, we would like the names to be automatically sorted in reverse alphabetical order (actually almost alphabetical, since we take into account the Unicode codes of the given characters).
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+After selecting the appropriate data set, display on the screen the number of unique names, as well as the first and last element of the set
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
