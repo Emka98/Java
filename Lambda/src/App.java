@@ -4,7 +4,22 @@ import java.util.function.Predicate;
 import java.util.function.Supplier;
 
 public class App {
+    
+    public Integer[] removeEven(Integer[] tab){
+ 
+        Predicate<Integer> isEven = x -> x % 2 == 0;
+        Integer[] withremovedEvenold = new Integer[tab.length];
+
+        for(int i = 0; tab.length > i; i++){
+            if(!isEven.test(tab[i])){
+                withremovedEvenold[i] = tab[i];
+            }
+        }
+       return withremovedEvenold; 
+    }
+    
     public static void main(String[] args) {
+        App app = new App();
         
         Supplier<Integer[]> randomNumbersTab = () -> {
             Integer[] tabnumbers = new Integer[10];
@@ -16,15 +31,14 @@ public class App {
 
         Consumer<Integer[] > printer = s -> {
             for (Integer number : s){
-                System.out.print(number + " ");
+                if(number != null){
+                    System.out.print(number + " ");
+                }
+        
             }
-        };
-
-        Predicate<Integer> isEven = x -> x % 2 == 0;
+        };    
         
-        public void 
-
-        
-
+        randomNumbersTab.get();
+        printer.accept(app.removeEven(randomNumbersTab.get()));
     }
 }
